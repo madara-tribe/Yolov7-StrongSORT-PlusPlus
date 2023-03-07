@@ -52,3 +52,4 @@ $ python3 post_track.py --source data/live_camera.mp4 --yolo-weights weights/yol
 # References
 - [StrongSORT](https://github.com/dyhBUPT/StrongSORT)
 - [StrongSORT-YOLO](https://github.com/bharath5673/StrongSORT-YOLO)
+- [StrongSORT: Make DeepSORT Great Again](https://ai-scholar.tech/articles/object-tracking/strongsort)
