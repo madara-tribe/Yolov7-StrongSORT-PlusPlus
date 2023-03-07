@@ -2,9 +2,9 @@
 
 StrongSORT++ is a more accurate model by applying AFLink (offline processing) and GSI interpolation (post-processing) than StrongSORT.
 
-mainly it can be used for "Traffic analysis", "Realtime Tracking" etc.
+Mainly it can be used for "Traffic analysis", "Realtime Tracking" etc.
 
-this is basic material to improve many models for myself.
+This is basic material to improve many models for myself.
 
 <img src="https://user-images.githubusercontent.com/48679574/223445547-c6e5e72c-c28d-459f-93dc-ab9bcff0c3d8.png" width="800" height="450"/>
 
