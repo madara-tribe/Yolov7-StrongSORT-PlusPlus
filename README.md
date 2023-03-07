@@ -38,10 +38,11 @@ $ python3 post_track.py --source data/live_camera.mp4 --yolo-weights weights/yol
 
 ## StrongSORT (without AFlink and GSI)
 
-
+<img src="https://user-images.githubusercontent.com/48679574/223443273-ec6b5737-e5e0-44e6-bc1b-52d0bc6e28d7.jpg" width="600" height="450"/>
 
 ## StrongSORT++ (with AFlink and GSI postprosecing)
 
+<img src="https://user-images.githubusercontent.com/48679574/223443233-e1d41f0f-a094-4d70-b70e-ed891991a986.jpg" width="600" height="450"/>
 
 
 # References
