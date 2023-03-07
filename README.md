@@ -6,7 +6,9 @@ mainly it can be used for "Traffic analysis", "Realtime Tracking" etc.
 
 this is basic material to improve many models for myself.
 
-<img src="https://user-images.githubusercontent.com/48679574/223445547-c6e5e72c-c28d-459f-93dc-ab9bcff0c3d8.png" width="400" height="250"/><img src="https://user-images.githubusercontent.com/48679574/223445558-c828c1a0-40e4-42f7-9a49-92d60452eaac.png" width="400" height="250"/>
+<img src="https://user-images.githubusercontent.com/48679574/223445547-c6e5e72c-c28d-459f-93dc-ab9bcff0c3d8.png" width="600" height="450"/>
+
+<img src="https://user-images.githubusercontent.com/48679574/223445558-c828c1a0-40e4-42f7-9a49-92d60452eaac.png" width="600" height="450"/>
 
 
 # How to use
