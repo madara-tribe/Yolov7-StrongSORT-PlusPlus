@@ -12,8 +12,8 @@ this is basic material to improve many models for myself.
 ## preparation
 - yolov7-tiny
 - movie
-- strongsort weight 
-- AFlink model weight 
+- [strongsort weight](https://drive.google.com/file/d/1hF2_0cqWwAY0mf2SvAMNcFVdYrcIHDIj/view?usp=sharing)
+- [AFlink model weight](https://drive.google.com/file/d/1qHoq33a6Ub4yDQrNJ4gTFmyqhyAYLOZg/view?usp=sharing)
 
 ```bash
 # just tracking 
